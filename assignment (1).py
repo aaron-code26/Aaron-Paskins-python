@@ -14,7 +14,7 @@ print(is_student,type(is_student))
 User_name=input("Enter your Name:")
 User_age=int(input("Enter your current Age:"))
 print(f"Hi,{User_name}!,You are approximately {User_age} old")
-
+# f-strings are some favorite way to format strings in Python. They allow you to embed expressions inside string literals, using curly braces {}. This makes it easy to create dynamic strings that include variable values.
 #Section3 Type Conversion and f-strings
 num1=float(input("Enter your first Number:"))
 num2=float(input("Enter your Second Number:"))
