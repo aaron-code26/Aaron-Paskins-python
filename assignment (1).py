@@ -16,10 +16,10 @@ User_age=int(input("Enter your current Age:"))
 print(f"Hi,{User_name}!,You are approximately {User_age} old")
 
 #Section3 Type Conversion and f-strings
-num1=float(input("Enter your first Number:")
-num2=float(input("Enter your Second Number:")
+num1=float(input("Enter your first Number:"))
+num2=float(input("Enter your Second Number:"))
 sum=float(num1*num2)
-Print("Sum equals to:",sum)
+print("Sum equals to:",sum)
 
            
 #Section 4 Type conversion and f-strings
