@@ -54,5 +54,5 @@ print("╔═══════════════════════�
 print(f"Profile:{profile}")
 print("╚══════════════════════════════╝")
 print(f"Hobby:{Hobby}\n")
-print(f"Fun Fact:{FunFact}\n")
+print(f"Fun Fact:{Funfact}\n")
 print(f'Age:{year-birthyear}')
